@@ -81,7 +81,7 @@ Arcana Mundi bertujuan menjadi lebih dari sekadar game kuis — ini adalah penga
 
 ## 🌐 Demo
 
-[Arcana Mundi Live Demo](https://arcana-mundi.vercel.app/)
+[Arcana Mundi Live Demo](https://arcanamundi.vercel.app/)
 
 ---
 
