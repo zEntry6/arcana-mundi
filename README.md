@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/status-prototype-blueviolet)
 ![Built with](https://img.shields.io/badge/built%20with-HTML%2FCSS%2FJS-4caf50)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
+![Play Now](https://img.shields.io/badge/Play%20Now-Arcana%20Mundi-green)
 
 ![Arcana Mundi Preview](preview-1.PNG)
 ![Arcana Mundi Preview](preview-soal.PNG)
