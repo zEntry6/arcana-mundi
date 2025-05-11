@@ -2,52 +2,52 @@
     "verdant": [
       {
         "question": "Negara mana yang secara geografis terkurung daratan tetapi memiliki armada dagang laut terbesar di dunia berdasarkan tonase kotor?",
-        "options": ["Swiss", "Luksemburg", "Mongolia", "Liechtenstein"],
+        "options": ["Mongolia", "Luksemburg", "Swiss", "Liechtenstein"],
         "answer": "Luksemburg"
       },
       {
         "question": "Apa nama dari perjanjian tahun 1648 yang menandai berakhirnya Perang Tiga Puluh Tahun dan dianggap sebagai dasar hukum internasional modern?",
-        "options": ["Perjanjian Versailles", "Perjanjian Utrecht", "Perjanjian Westfalen", "Perjanjian Tordesillas"],
+        "options": ["Perjanjian Westfalen", "Perjanjian Versailles", "Perjanjian Tordesillas", "Perjanjian Utrecht"],
         "answer": "Perjanjian Westfalen"
       },
       {
         "question": "Pulau manakah yang terbagi antara tiga negara berbeda?",
-        "options": ["Pulau Kalimantan", "Pulau Papua", "Pulau Irlandia", "Pulau Hispaniola"],
+        "options": ["Pulau Papua", "Pulau Irlandia", "Pulau Hispaniola", "Pulau Kalimantan"],
         "answer": "Pulau Kalimantan"
       },
       {
         "question": "Apa nama struktur geologi aktif terbesar di Tata Surya yang ditemukan di Mars?",
-        "options": ["Olympus Mons", "Valles Marineris", "Tharsis Bulge", "Hellas Basin"],
+        "options": ["Valles Marineris", "Olympus Mons", "Tharsis Bulge", "Hellas Basin"],
         "answer": "Olympus Mons"
       },
       {
         "question": "Siapakah penemu metode klasifikasi ilmiah binomial nomenklatur?",
-        "options": ["Aristoteles", "Carolus Linnaeus", "Gregor Mendel", "Charles Darwin"],
+        "options": ["Charles Darwin", "Aristoteles", "Carolus Linnaeus", "Gregor Mendel"],
         "answer": "Carolus Linnaeus"
       },
       {
         "question": "Apa ibu kota administratif dan yudisial Afrika Selatan?",
-        "options": ["Pretoria", "Cape Town", "Bloemfontein", "Johannesburg"],
+        "options": ["Cape Town", "Johannesburg", "Bloemfontein", "Pretoria"],
         "answer": "Pretoria"
       },
       {
         "question": "Pada tahun berapa Revolusi Prancis dimulai?",
-        "options": ["1776", "1789", "1804", "1793"],
+        "options": ["1793", "1789", "1804", "1776"],
         "answer": "1789"
       },
       {
         "question": "Sungai terpanjang di Asia adalah?",
-        "options": ["Yangtze", "Mekong", "Ob", "Amur"],
+        "options": ["Mekong", "Yangtze", "Ob", "Amur"],
         "answer": "Yangtze"
       },
       {
         "question": "Apa unsur kimia terbanyak di kerak bumi?",
-        "options": ["Aluminium", "Besi", "Silikon", "Oksigen"],
+        "options": ["Oksigen", "Silikon", "Aluminium", "Besi"],
         "answer": "Oksigen"
       },
       {
         "question": "Siapakah Kaisar Romawi yang pertama kali mengadopsi Kristen sebagai agama kekaisaran?",
-        "options": ["Augustus", "Nero", "Konstantinus Agung", "Theodosius I"],
+        "options": ["Konstantinus Agung", "Augustus", "Theodosius I", "Nero"],
         "answer": "Theodosius I"
       },
       {
@@ -57,454 +57,454 @@
       },
       {
         "question": "Siapakah ilmuwan pertama yang menyusun tabel periodik unsur berdasarkan massa atom relatif?",
-        "options": ["Lavoisier", "Mendeleev", "Dalton", "Moseley"],
+        "options": ["Lavoisier", "Dalton", "Mendeleev", "Moseley"],
         "answer": "Mendeleev"
       },
       {
         "question": "Apa nama bintang paling terang di langit malam (selain Matahari)?",
-        "options": ["Betelgeuse", "Vega", "Sirius", "Rigel"],
+        "options": ["Vega", "Sirius", "Rigel", "Betelgeuse"],
         "answer": "Sirius"
       },
       {
         "question": "Apa nama ibukota Kekaisaran Bizantium sebelum menjadi Konstantinopel?",
-        "options": ["Byzantium", "Troy", "Antioch", "Nicomedia"],
+        "options": ["Byzantium", "Nicomedia", "Troy", "Antioch"],
         "answer": "Byzantium"
       },
       {
         "question": "Apa bahasa resmi yang digunakan di Perserikatan Bangsa-Bangsa (PBB)?",
-        "options": ["Spanyol", "Jerman", "Arab", "Mandarin"],
+        "options": ["Spanyol", "Arab", "Mandarin", "Jerman"],
         "answer": "Mandarin"
       },
       {
         "question": "Apa nama jalur perdagangan kuno yang menghubungkan Tiongkok dengan Eropa?",
-        "options": ["Jalur Sutra", "Jalur Rempah", "Via Appia", "Jalur Batu Giok"],
+        "options": ["Jalur Sutra", "Via Appia", "Jalur Rempah", "Jalur Batu Giok"],
         "answer": "Jalur Sutra"
       },
       {
         "question": "Danau terdalam di dunia adalah?",
-        "options": ["Danau Tanganyika", "Danau Baikal", "Danau Superior", "Danau Vostok"],
+        "options": ["Danau Vostok", "Danau Superior", "Danau Tanganyika", "Danau Baikal"],
         "answer": "Danau Baikal"
       },
       {
         "question": "Planet manakah yang memiliki rotasi tercepat di Tata Surya?",
-        "options": ["Bumi", "Mars", "Saturnus", "Jupiter"],
+        "options": ["Jupiter", "Saturnus", "Mars", "Bumi"],
         "answer": "Jupiter"
       },
       {
         "question": "Apa nama sistem filosofi Cina kuno yang memengaruhi Konfusianisme dan Taoisme?",
-        "options": ["Legalism", "Mohisme", "Yin-Yang", "Dao"],
+        "options": ["Legalism", "Yin-Yang", "Dao", "Mohisme"],
         "answer": "Dao"
       },
       {
         "question": "Apa nama lapisan atmosfer tempat terjadinya aurora borealis?",
-        "options": ["Stratosfer", "Termosfer", "Mesosfer", "Troposfer"],
+        "options": ["Stratosfer", "Termosfer", "Troposfer", "Mesosfer"],
         "answer": "Termosfer"
       },
       {
         "question": "Apa nama kota tertua yang masih dihuni hingga sekarang?",
-        "options": ["Yerusalem", "Atena", "Damaskus", "Roma"],
+        "options": ["Atena", "Damaskus", "Yerusalem", "Roma"],
         "answer": "Damaskus"
       },
       {
         "question": "Apa nama lembaga yang menciptakan sistem klasifikasi penyakit global?",
-        "options": ["UNICEF", "CDC", "WHO", "Red Cross"],
+        "options": ["Red Cross", "WHO", "CDC", "UNICEF"],
         "answer": "WHO"
       },
       {
         "question": "Apa nama letusan gunung berapi paling mematikan dalam sejarah modern?",
-        "options": ["Krakatau", "Tambora", "Vesuvius", "Pinatubo"],
+        "options": ["Vesuvius", "Tambora", "Krakatau", "Pinatubo"],
         "answer": "Tambora"
       },
       {
         "question": "Apa nama benua terakhir yang ditemukan manusia modern?",
-        "options": ["Australia", "Amerika", "Antartika", "Asia"],
+        "options": ["Asia", "Antartika", "Amerika", "Australia"],
         "answer": "Antartika"
       },
       {
         "question": "Siapa penulis 'On the Origin of Species' yang mengubah arah ilmu biologi?",
-        "options": ["Jean-Baptiste Lamarck", "Alfred Wallace", "Charles Darwin", "Gregor Mendel"],
+        "options": ["Gregor Mendel", "Charles Darwin", "Alfred Wallace", "Jean-Baptiste Lamarck"],
         "answer": "Charles Darwin"
-      }    
+      }  
   ],
     "cryptarithm": [
-      {
-        "question": "Jika x^3 + y^3 = z^3 tidak memiliki solusi bilangan bulat positif untuk x, y, z ≠ 0, maka ini berkaitan dengan teorema apa?",
-        "options": ["Teorema Fermat Terakhir", "Teorema Pythagoras", "Hukum Euler", "Identitas Euler"],
-        "answer": "Teorema Fermat Terakhir"
-      },
-      {
-        "question": "Bilangan prima terbesar yang diketahui hingga tahun 2024 memiliki bentuk apa?",
-        "options": ["Mersenne Prime", "Twin Prime", "Sophie Germain Prime", "Gaussian Prime"],
-        "answer": "Mersenne Prime"
-      },
-      {
-        "question": "Apa akar ke-5 dari 3125?",
-        "options": ["5", "25", "15", "10"],
-        "answer": "5"
-      },
-      {
-        "question": "Jika f(x) = 2x^2 + 3x - 5, maka f(-2) adalah?",
-        "options": ["1", "-3", "-11", "7"],
-        "answer": "-3"
-      },
-      {
-        "question": "Dalam sistem bilangan biner, hasil dari 1011 + 1101 adalah?",
-        "options": ["11000", "10100", "10110", "10010"],
-        "answer": "11000"
-      },
-      {
-        "question": "Bilangan Euler e didefinisikan sebagai limit dari ekspresi apa?",
-        "options": ["(1 + 1/n)^n saat n → ∞", "(1 - 1/n)^n saat n → ∞", "n!", "1/n"],
-        "answer": "(1 + 1/n)^n saat n → ∞"
-      },
-      {
-        "question": "Berapa banyak bilangan bulat antara 1 dan 100 yang merupakan kelipatan dari 3 atau 5?",
-        "options": ["47", "45", "43", "40"],
-        "answer": "47"
-      },
-      {
-        "question": "Apa determinan dari matriks 2x2: [[3, 4], [2, 1]]?",
-        "options": ["-5", "2", "10", "-2"],
-        "answer": "-5"
-      },
-      {
-        "question": "Salah satu pendekatan pembuktian bahwa jumlah bilangan prima tak hingga adalah?",
-        "options": ["Asumsi kontradiksi", "Logika fuzzy", "Konstruksi turunan", "Turunan numerik"],
-        "answer": "Asumsi kontradiksi"
-      },
-      {
-        "question": "Apa nama himpunan bilangan yang merupakan akar dari polinomial dengan koefisien rasional?",
-        "options": ["Bilangan irasional", "Bilangan transendental", "Bilangan aljabar", "Bilangan kompleks"],
-        "answer": "Bilangan aljabar"
-      },
-      {
-        "question": "Hasil dari ∫ x dx adalah?",
-        "options": ["x^2 / 2 + C", "x + C", "ln(x) + C", "1/x + C"],
-        "answer": "x^2 / 2 + C"
-      },
-      {
-        "question": "Jumlah semua sudut dalam poligon 17 sisi adalah?",
-        "options": ["2700°", "2880°", "2520°", "2160°"],
-        "answer": "2520°"
-      },
-      {
-        "question": "Jika A dan B adalah himpunan, maka A ∪ B adalah?",
-        "options": ["Himpunan gabungan A dan B", "Himpunan irisan A dan B", "Selisih A dan B", "Komplemen A"],
-        "answer": "Himpunan gabungan A dan B"
-      },
-      {
-        "question": "Berapakah nilai limit dari (sin x)/x saat x mendekati 0?",
-        "options": ["1", "0", "Tak hingga", "-1"],
-        "answer": "1"
-      },
-      {
-        "question": "Berapa banyak permutasi dari kata 'MATEMATIKA'?",
-        "options": ["453600", "151200", "90720", "30240"],
-        "answer": "151200"
-      },
-      {
-        "question": "Apa akar-akar dari x^2 - 4x + 4 = 0?",
-        "options": ["2 dan 2", "2 dan -2", "4 dan 0", "4 dan -1"],
-        "answer": "2 dan 2"
-      },
-      {
-        "question": "Apa invers dari matriks [[1, 2], [3, 4]]?",
-        "options": ["[[−2, 1], [1.5, −0.5]]", "[[−2, 1], [0.5, −1.5]]", "[[2, -1], [-1.5, 0.5]]", "[[−2, 1], [0.5, −0.5]]"],
-        "answer": "[[−2, 1], [1.5, −0.5]]"
-      },
-      {
-        "question": "Apakah bilangan 561 adalah bilangan Carmichael?",
-        "options": ["Ya", "Tidak", "Tergantung konteks", "Hanya jika prima"],
-        "answer": "Ya"
-      },
-      {
-        "question": "Apa bentuk faktorisasi dari x^3 - 27?",
-        "options": ["(x - 3)(x^2 + 3x + 9)", "(x + 3)(x^2 - 3x + 9)", "(x - 3)^3", "(x^2 - 9)(x + 3)"],
-        "answer": "(x - 3)(x^2 + 3x + 9)"
-      },
-      {
-        "question": "Logika proposisional menyatakan bahwa 'P → Q' ekuivalen dengan?",
-        "options": ["¬P ∨ Q", "P ∧ Q", "P ∨ ¬Q", "¬Q ∧ P"],
-        "answer": "¬P ∨ Q"
-      },
-      {
-        "question": "Bilangan manakah yang merupakan bilangan prima Sophie Germain?",
-        "options": ["23", "11", "19", "29"],
-        "answer": "23"
-      },
-      {
-        "question": "Berapa jumlah digit dari faktorial 100 (100!)?",
-        "options": ["158", "140", "180", "160"],
-        "answer": "158"
-      },
-      {
-        "question": "Apa fungsi f(x) yang memenuhi f(f(x)) = 4x + 3 dan f(x) linear?",
-        "options": ["f(x) = 2x + 1", "f(x) = 4x + 3", "f(x) = x + 3", "f(x) = 3x + 1"],
-        "answer": "f(x) = 2x + 1"
-      },
-      {
-        "question": "Dalam teori graf, graf yang memiliki lintasan yang melalui setiap sisi tepat satu kali disebut?",
-        "options": ["Graf Euler", "Graf Hamilton", "Graf Lengkap", "Graf Bipartit"],
-        "answer": "Graf Euler"
-      },
-      {
-        "question": "Apa bilangan terkecil yang dapat dibagi oleh semua bilangan dari 1 sampai 10?",
-        "options": ["2520", "3600", "5040", "4200"],
-        "answer": "2520"
-      }  
+  {
+    "question": "Apa bentuk faktorisasi dari x^3 - 27?",
+    "options": ["(x - 3)^3", "(x + 3)(x^2 - 3x + 9)", "(x - 3)(x^2 + 3x + 9)", "(x^2 - 9)(x + 3)"],
+    "answer": "(x - 3)(x^2 + 3x + 9)"
+  },
+  {
+    "question": "Dalam teori graf, graf yang memiliki lintasan yang melalui setiap sisi tepat satu kali disebut?",
+    "options": ["Graf Hamilton", "Graf Bipartit", "Graf Euler", "Graf Lengkap"],
+    "answer": "Graf Euler"
+  },
+  {
+    "question": "Bilangan manakah yang merupakan bilangan prima Sophie Germain?",
+    "options": ["11", "23", "29", "19"],
+    "answer": "23"
+  },
+  {
+    "question": "Apa fungsi f(x) yang memenuhi f(f(x)) = 4x + 3 dan f(x) linear?",
+    "options": ["f(x) = x + 3", "f(x) = 3x + 1", "f(x) = 4x + 3", "f(x) = 2x + 1"],
+    "answer": "f(x) = 2x + 1"
+  },
+  {
+    "question": "Jika x^3 + y^3 = z^3 tidak memiliki solusi bilangan bulat positif untuk x, y, z ≠ 0, maka ini berkaitan dengan teorema apa?",
+    "options": ["Hukum Euler", "Teorema Fermat Terakhir", "Identitas Euler", "Teorema Pythagoras"],
+    "answer": "Teorema Fermat Terakhir"
+  },
+  {
+    "question": "Apa nama himpunan bilangan yang merupakan akar dari polinomial dengan koefisien rasional?",
+    "options": ["Bilangan aljabar", "Bilangan kompleks", "Bilangan transendental", "Bilangan irasional"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa akar ke-5 dari 3125?",
+    "options": ["10", "15", "25", "5"],
+    "answer": "5"
+  },
+  {
+    "question": "Apa hasil dari ∫ x dx?",
+    "options": ["x^2 / 2 + C", "1/x + C", "x + C", "ln(x) + C"],
+    "answer": "x^2 / 2 + C"
+  },
+  {
+    "question": "Jika f(x) = 2x^2 + 3x - 5, maka f(-2) adalah?",
+    "options": ["-11", "-3", "1", "7"],
+    "answer": "-3"
+  },
+  {
+    "question": "Bilangan prima terbesar yang diketahui hingga tahun 2024 memiliki bentuk apa?",
+    "options": ["Mersenne Prime", "Twin Prime", "Gaussian Prime", "Sophie Germain Prime"],
+    "answer": "Mersenne Prime"
+  },
+  {
+    "question": "Apa determinan dari matriks 2x2: [[3, 4], [2, 1]]?",
+    "options": ["2", "-2", "-5", "10"],
+    "answer": "-5"
+  },
+  {
+    "question": "Apa invers dari matriks [[1, 2], [3, 4]]?",
+    "options": ["[[−2, 1], [0.5, −1.5]]", "[[−2, 1], [1.5, −0.5]]", "[[2, -1], [-1.5, 0.5]]", "[[−2, 1], [0.5, −0.5]]"],
+    "answer": "[[−2, 1], [1.5, −0.5]]"
+  },
+  {
+    "question": "Bilangan manakah yang merupakan bilangan Carmichael?",
+    "options": ["Ya", "Tidak", "Tergantung konteks", "Hanya jika prima"],
+    "answer": "Ya"
+  },
+  {
+    "question": "Jumlah semua sudut dalam poligon 17 sisi adalah?",
+    "options": ["2880°", "2520°", "2700°", "2160°"],
+    "answer": "2520°"
+  },
+  {
+    "question": "Dalam sistem bilangan biner, hasil dari 1011 + 1101 adalah?",
+    "options": ["10010", "10110", "11000", "10100"],
+    "answer": "11000"
+  },
+  {
+    "question": "Apa nilai limit dari (sin x)/x saat x mendekati 0?",
+    "options": ["0", "1", "-1", "Tak hingga"],
+    "answer": "1"
+  },
+  {
+    "question": "Apa bentuk limit yang mendefinisikan bilangan Euler e?",
+    "options": ["(1 - 1/n)^n saat n → ∞", "(1 + 1/n)^n saat n → ∞", "1/n", "n!"],
+    "answer": "(1 + 1/n)^n saat n → ∞"
+  },
+  {
+    "question": "Apa nama pendekatan pembuktian bahwa jumlah bilangan prima tak hingga adalah?",
+    "options": ["Logika fuzzy", "Konstruksi turunan", "Turunan numerik", "Asumsi kontradiksi"],
+    "answer": "Asumsi kontradiksi"
+  },
+  {
+    "question": "Berapakah nilai dari A ∪ B jika A dan B adalah himpunan?",
+    "options": ["Himpunan irisan A dan B", "Himpunan gabungan A dan B", "Komplemen A", "Selisih A dan B"],
+    "answer": "Himpunan gabungan A dan B"
+  },
+  {
+    "question": "Berapa banyak permutasi dari kata 'MATEMATIKA'?",
+    "options": ["453600", "30240", "151200", "90720"],
+    "answer": "151200"
+  },
+  {
+    "question": "Berapa banyak bilangan bulat antara 1 dan 100 yang merupakan kelipatan dari 3 atau 5?",
+    "options": ["43", "47", "45", "40"],
+    "answer": "47"
+  },
+  {
+    "question": "Logika proposisional menyatakan bahwa 'P → Q' ekuivalen dengan?",
+    "options": ["¬P ∨ Q", "P ∧ Q", "¬Q ∧ P", "P ∨ ¬Q"],
+    "answer": "¬P ∨ Q"
+  },
+  {
+    "question": "Berapa jumlah digit dari faktorial 100 (100!)?",
+    "options": ["158", "140", "180", "160"],
+    "answer": "158"
+  },
+  {
+    "question": "Apa akar-akar dari x^2 - 4x + 4 = 0?",
+    "options": ["4 dan 0", "2 dan -2", "2 dan 2", "4 dan -1"],
+    "answer": "2 dan 2"
+  },
+  {
+    "question": "Apa bilangan terkecil yang dapat dibagi oleh semua bilangan dari 1 sampai 10?",
+    "options": ["5040", "3600", "2520", "4200"],
+    "answer": "2520"
+  }
   ],
     "blooming": [
-      {
-        "question": "Apa nama enzim yang digunakan oleh bakteri untuk memotong DNA pada lokasi tertentu dan digunakan dalam rekayasa genetika?",
-        "options": ["Restriksi endonuklease", "Ligase", "Helikase", "Polimerase"],
-        "answer": "Restriksi endonuklease"
-      },
-      {
-        "question": "Organisme prokariotik pertama kali berevolusi sekitar berapa miliar tahun lalu?",
-        "options": ["3.5", "1.2", "2.1", "4.0"],
-        "answer": "3.5"
-      },
-      {
-        "question": "Apakah nama protein motorik yang menggerakkan vesikula sepanjang mikrotubulus ke arah ujung positif?",
-        "options": ["Kinesin", "Aktin", "Dinein", "Miosin"],
-        "answer": "Kinesin"
-      },
-      {
-        "question": "Hormon yang bertanggung jawab terhadap penghambatan pertumbuhan pada tumbuhan disebut?",
-        "options": ["Asam absisat", "Auksin", "Giberelin", "Sitokinin"],
-        "answer": "Asam absisat"
-      },
-      {
-        "question": "Pada fotosintesis, reaksi terang terjadi di bagian mana dari kloroplas?",
-        "options": ["Tilakoid", "Stroma", "Grana", "Membran luar"],
-        "answer": "Tilakoid"
-      },
-      {
-        "question": "Sitoskeleton terdiri dari tiga komponen utama, yaitu mikrotubulus, filamen intermediat, dan?",
-        "options": ["Mikrofilamen", "Centrosom", "Peroksisom", "Aktin filament"],
-        "answer": "Mikrofilamen"
-      },
-      {
-        "question": "Kelenjar endokrin mana yang mengatur kadar kalsium darah dengan melepaskan kalsitonin?",
-        "options": ["Tiroid", "Paratiroid", "Hipofisis", "Adrenal"],
-        "answer": "Tiroid"
-      },
-      {
-        "question": "Struktur manakah yang menjadi tempat sintesis protein dalam sel eukariotik?",
-        "options": ["Ribosom", "Lisosom", "Nukleolus", "Mitokondria"],
-        "answer": "Ribosom"
-      },
-      {
-        "question": "Di dalam sistem saraf, potensial aksi dimulai saat ion apa masuk ke dalam sel saraf?",
-        "options": ["Natrium (Na⁺)", "Kalium (K⁺)", "Kalsium (Ca²⁺)", "Klorida (Cl⁻)"],
-        "answer": "Natrium (Na⁺)"
-      },
-      {
-        "question": "Tanaman dikotil ditandai oleh semua ciri berikut, kecuali?",
-        "options": ["Biji berkeping dua", "Akar serabut", "Pertulangan daun menyirip", "Bunga kelipatan 4 atau 5"],
-        "answer": "Akar serabut"
-      },
-      {
-        "question": "Sel Schwann berperan dalam?",
-        "options": ["Membentuk selubung mielin", "Mentransmisi sinyal", "Menangkap antigen", "Menyalurkan darah"],
-        "answer": "Membentuk selubung mielin"
-      },
-      {
-        "question": "Apa produk akhir fermentasi asam laktat pada otot manusia?",
-        "options": ["Asam laktat", "Etanol", "Karbon dioksida", "Asam asetat"],
-        "answer": "Asam laktat"
-      },
-      {
-        "question": "Bagian otak yang mengontrol koordinasi dan keseimbangan tubuh adalah?",
-        "options": ["Serebelum", "Hipotalamus", "Korteks serebral", "Medula oblongata"],
-        "answer": "Serebelum"
-      },
-      {
-        "question": "Apa nama proses diferensiasi sel dari sel punca menjadi jenis sel tertentu?",
-        "options": ["Spesialisasi sel", "Mitogenesis", "Replikasi", "Apoptosis"],
-        "answer": "Spesialisasi sel"
-      },
-      {
-        "question": "Apa jenis RNA yang membawa asam amino ke ribosom selama translasi?",
-        "options": ["tRNA", "mRNA", "rRNA", "snRNA"],
-        "answer": "tRNA"
-      },
-      {
-        "question": "Organ tumbuhan manakah yang utama dalam pengangkutan air dan nutrisi dari akar ke daun?",
-        "options": ["Xilem", "Floem", "Kambium", "Stomata"],
-        "answer": "Xilem"
-      },
-      {
-        "question": "Proses sintesis ATP pada fotosintesis dikenal sebagai?",
-        "options": ["Fotofosforilasi", "Kemosintesis", "Glikolisis", "Transkripsi"],
-        "answer": "Fotofosforilasi"
-      },
-      {
-        "question": "Apakah nama fase pembelahan mitosis di mana kromosom berbaris di ekuator sel?",
-        "options": ["Metafase", "Anafase", "Profase", "Telofase"],
-        "answer": "Metafase"
-      },
-      {
-        "question": "Di mana tempat utama filtrasi darah dalam ginjal?",
-        "options": ["Glomerulus", "Tubulus distal", "Lengkung Henle", "Ureter"],
-        "answer": "Glomerulus"
-      },
-      {
-        "question": "Zat apakah yang paling banyak diangkut oleh hemoglobin pada eritrosit?",
-        "options": ["Oksigen", "Karbon dioksida", "Nitrogen", "Glukosa"],
-        "answer": "Oksigen"
-      },
-      {
-        "question": "Fungsi utama mitokondria adalah?",
-        "options": ["Menghasilkan ATP", "Menyintesis protein", "Mengemas protein", "Menetralisir racun"],
-        "answer": "Menghasilkan ATP"
-      },
-      {
-        "question": "Manakah dari berikut ini yang merupakan contoh hormon tumbuhan?",
-        "options": ["Auksin", "Insulin", "Testosteron", "Adrenalin"],
-        "answer": "Auksin"
-      },
-      {
-        "question": "Organisme autotrof memperoleh energi dengan cara?",
-        "options": ["Fotosintesis", "Fermentasi", "Pencernaan", "Respirasi seluler"],
-        "answer": "Fotosintesis"
-      },
-      {
-        "question": "Apa nama proses ketika sel menelan zat dari lingkungan dengan membentuk vesikula?",
-        "options": ["Endositosis", "Eksositosis", "Difusi", "Osmosis"],
-        "answer": "Endositosis"
-      },
-      {
-        "question": "Tumbuhan disebut C4 jika memiliki enzim khusus di siklus Calvin bernama?",
-        "options": ["PEP karboksilase", "Rubisco", "Fumarase", "Isomerase"],
-        "answer": "PEP karboksilase"
-      }  
+  {
+    "question": "Apa nama enzim yang digunakan oleh bakteri untuk memotong DNA pada lokasi tertentu dan digunakan dalam rekayasa genetika?",
+    "options": ["Ligase", "Helikase", "Polimerase", "Restriksi endonuklease"],
+    "answer": "Restriksi endonuklease"
+  },
+  {
+    "question": "Organisme prokariotik pertama kali berevolusi sekitar berapa miliar tahun lalu?",
+    "options": ["2.1", "4.0", "3.5", "1.2"],
+    "answer": "3.5"
+  },
+  {
+    "question": "Apakah nama protein motorik yang menggerakkan vesikula sepanjang mikrotubulus ke arah ujung positif?",
+    "options": ["Kinesin", "Dinein", "Aktin", "Miosin"],
+    "answer": "Kinesin"
+  },
+  {
+    "question": "Hormon yang bertanggung jawab terhadap penghambatan pertumbuhan pada tumbuhan disebut?",
+    "options": ["Sitokinin", "Giberelin", "Auksin", "Asam absisat"],
+    "answer": "Asam absisat"
+  },
+  {
+    "question": "Pada fotosintesis, reaksi terang terjadi di bagian mana dari kloroplas?",
+    "options": ["Grana", "Membran luar", "Tilakoid", "Stroma"],
+    "answer": "Tilakoid"
+  },
+  {
+    "question": "Sitoskeleton terdiri dari tiga komponen utama, yaitu mikrotubulus, filamen intermediat, dan?",
+    "options": ["Mikrofilamen", "Peroksisom", "Centrosom", "Aktin filament"],
+    "answer": "Mikrofilamen"
+  },
+  {
+    "question": "Kelenjar endokrin mana yang mengatur kadar kalsium darah dengan melepaskan kalsitonin?",
+    "options": ["Tiroid", "Paratiroid", "Adrenal", "Hipofisis"],
+    "answer": "Tiroid"
+  },
+  {
+    "question": "Struktur manakah yang menjadi tempat sintesis protein dalam sel eukariotik?",
+    "options": ["Nukleolus", "Mitokondria", "Lisosom", "Ribosom"],
+    "answer": "Ribosom"
+  },
+  {
+    "question": "Di dalam sistem saraf, potensial aksi dimulai saat ion apa masuk ke dalam sel saraf?",
+    "options": ["Kalium (K⁺)", "Kalsium (Ca²⁺)", "Natrium (Na⁺)", "Klorida (Cl⁻)"],
+    "answer": "Natrium (Na⁺)"
+  },
+  {
+    "question": "Tanaman dikotil ditandai oleh semua ciri berikut, kecuali?",
+    "options": ["Pertulangan daun menyirip", "Akar serabut", "Bunga kelipatan 4 atau 5", "Biji berkeping dua"],
+    "answer": "Akar serabut"
+  },
+  {
+    "question": "Sel Schwann berperan dalam?",
+    "options": ["Membentuk selubung mielin", "Menyalurkan darah", "Menangkap antigen", "Mentransmisi sinyal"],
+    "answer": "Membentuk selubung mielin"
+  },
+  {
+    "question": "Apa produk akhir fermentasi asam laktat pada otot manusia?",
+    "options": ["Etanol", "Karbon dioksida", "Asam asetat", "Asam laktat"],
+    "answer": "Asam laktat"
+  },
+  {
+    "question": "Bagian otak yang mengontrol koordinasi dan keseimbangan tubuh adalah?",
+    "options": ["Serebelum", "Hipotalamus", "Korteks serebral", "Medula oblongata"],
+    "answer": "Serebelum"
+  },
+  {
+    "question": "Apa nama proses diferensiasi sel dari sel punca menjadi jenis sel tertentu?",
+    "options": ["Mitogenesis", "Spesialisasi sel", "Replikasi", "Apoptosis"],
+    "answer": "Spesialisasi sel"
+  },
+  {
+    "question": "Apa jenis RNA yang membawa asam amino ke ribosom selama translasi?",
+    "options": ["mRNA", "snRNA", "tRNA", "rRNA"],
+    "answer": "tRNA"
+  },
+  {
+    "question": "Organ tumbuhan manakah yang utama dalam pengangkutan air dan nutrisi dari akar ke daun?",
+    "options": ["Xilem", "Floem", "Stomata", "Kambium"],
+    "answer": "Xilem"
+  },
+  {
+    "question": "Proses sintesis ATP pada fotosintesis dikenal sebagai?",
+    "options": ["Kemosintesis", "Glikolisis", "Transkripsi", "Fotofosforilasi"],
+    "answer": "Fotofosforilasi"
+  },
+  {
+    "question": "Apakah nama fase pembelahan mitosis di mana kromosom berbaris di ekuator sel?",
+    "options": ["Anafase", "Metafase", "Telofase", "Profase"],
+    "answer": "Metafase"
+  },
+  {
+    "question": "Di mana tempat utama filtrasi darah dalam ginjal?",
+    "options": ["Glomerulus", "Lengkung Henle", "Tubulus distal", "Ureter"],
+    "answer": "Glomerulus"
+  },
+  {
+    "question": "Zat apakah yang paling banyak diangkut oleh hemoglobin pada eritrosit?",
+    "options": ["Nitrogen", "Karbon dioksida", "Glukosa", "Oksigen"],
+    "answer": "Oksigen"
+  },
+  {
+    "question": "Fungsi utama mitokondria adalah?",
+    "options": ["Mengemas protein", "Menghasilkan ATP", "Menyintesis protein", "Menetralisir racun"],
+    "answer": "Menghasilkan ATP"
+  },
+  {
+    "question": "Manakah dari berikut ini yang merupakan contoh hormon tumbuhan?",
+    "options": ["Testosteron", "Auksin", "Adrenalin", "Insulin"],
+    "answer": "Auksin"
+  },
+  {
+    "question": "Organisme autotrof memperoleh energi dengan cara?",
+    "options": ["Fotosintesis", "Respirasi seluler", "Fermentasi", "Pencernaan"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Apa nama proses ketika sel menelan zat dari lingkungan dengan membentuk vesikula?",
+    "options": ["Osmosis", "Eksositosis", "Endositosis", "Difusi"],
+    "answer": "Endositosis"
+  },
+  {
+    "question": "Tumbuhan disebut C4 jika memiliki enzim khusus di siklus Calvin bernama?",
+    "options": ["Fumarase", "PEP karboksilase", "Isomerase", "Rubisco"],
+    "answer": "PEP karboksilase"
+  }
   ],
     "ether": [
-      {
-        "question": "Apa nama hukum yang menyatakan bahwa gaya yang dibutuhkan untuk mengubah momentum suatu benda sebanding dengan laju perubahan momentum itu?",
-        "options": ["Hukum II Newton", "Hukum I Newton", "Hukum Aksi-Reaksi", "Hukum Hooke"],
-        "answer": "Hukum II Newton"
-      },
-      {
-        "question": "Apakah satuan SI untuk fluks magnetik?",
-        "options": ["Weber", "Tesla", "Henry", "Farad"],
-        "answer": "Weber"
-      },
-      {
-        "question": "Gelombang elektromagnetik termasuk gelombang jenis apa?",
-        "options": ["Transversal", "Longitudinal", "Permukaan", "Stasioner"],
-        "answer": "Transversal"
-      },
-      {
-        "question": "Pada resonansi, frekuensi sumber harus sama dengan?",
-        "options": ["Frekuensi alami sistem", "Amplitudo maksimum", "Cepat rambat gelombang", "Sudut kritis"],
-        "answer": "Frekuensi alami sistem"
-      },
-      {
-        "question": "Apa nama fenomena saat dua gelombang bertemu dan menghasilkan penguatan atau pelemahan amplitudo?",
-        "options": ["Interferensi", "Refleksi", "Difraksi", "Refraksi"],
-        "answer": "Interferensi"
-      },
-      {
-        "question": "Rumus energi relativistik total dari sebuah partikel adalah?",
-        "options": ["E = mc²", "E = hf", "E = ½mv²", "E = qV"],
-        "answer": "E = mc²"
-      },
-      {
-        "question": "Partikel dengan massa istirahat nol tetap memiliki energi karena?",
-        "options": ["Memiliki momentum", "Berada dalam medan listrik", "Mengalami gaya gesek", "Melakukan osilasi"],
-        "answer": "Memiliki momentum"
-      },
-      {
-        "question": "Pada percobaan Young, jarak antara pola terang tergantung pada?",
-        "options": ["Panjang gelombang", "Sudut pantul", "Kedalaman air", "Suhu medium"],
-        "answer": "Panjang gelombang"
-      },
-      {
-        "question": "Apa satuan dari kapasitas kalor spesifik dalam SI?",
-        "options": ["J/kg·K", "J/K", "kJ/mol", "W/m·K"],
-        "answer": "J/kg·K"
-      },
-      {
-        "question": "Hukum Gauss digunakan untuk menghitung medan listrik dari?",
-        "options": ["Distribusi muatan simetris", "Kawat panjang", "Kapasitor datar", "Induksi magnetik"],
-        "answer": "Distribusi muatan simetris"
-      },
-      {
-        "question": "Gaya sentripetal diperlukan agar benda dapat?",
-        "options": ["Bergerak melingkar", "Meningkatkan kecepatannya", "Tetap diam", "Mengalami gaya normal"],
-        "answer": "Bergerak melingkar"
-      },
-      {
-        "question": "Jika gaya konstan bekerja pada benda selama waktu tertentu, besaran yang berubah secara langsung adalah?",
-        "options": ["Momentum", "Energi potensial", "Gaya normal", "Frekuensi"],
-        "answer": "Momentum"
-      },
-      {
-        "question": "Apa istilah untuk perpindahan panas melalui zat padat tanpa perpindahan massa?",
-        "options": ["Konduksi", "Konveksi", "Radiasi", "Difusi"],
-        "answer": "Konduksi"
-      },
-      {
-        "question": "Manakah yang merupakan medan konservatif?",
-        "options": ["Medan gravitasi", "Medan gesekan", "Medan gaya normal", "Medan viskos"],
-        "answer": "Medan gravitasi"
-      },
-      {
-        "question": "Frekuensi resonansi dalam rangkaian LC ditentukan oleh?",
-        "options": ["1 / (2π√(LC))", "L / C", "LC", "1 / (LC)"],
-        "answer": "1 / (2π√(LC))"
-      },
-      {
-        "question": "Hukum Faraday menghubungkan perubahan fluks magnetik dengan?",
-        "options": ["GGL induksi", "Kuat medan magnet", "Kuat arus", "Kapasitansi"],
-        "answer": "GGL induksi"
-      },
-      {
-        "question": "Pada gelombang stasioner, titik-titik yang tidak bergerak disebut?",
-        "options": ["Simpul", "Perut", "Puncak", "Dasar"],
-        "answer": "Simpul"
-      },
-      {
-        "question": "Jika panjang gelombang meningkat dan kecepatan tetap, maka frekuensi akan?",
-        "options": ["Menurun", "Meningkat", "Tetap", "Tak terdefinisi"],
-        "answer": "Menurun"
-      },
-      {
-        "question": "Dalam mekanika kuantum, probabilitas menemukan partikel diberikan oleh?",
-        "options": ["Fungsi gelombang kuadrat", "Energi kinetik", "Kecepatan rata-rata", "Medan gaya"],
-        "answer": "Fungsi gelombang kuadrat"
-      },
-      {
-        "question": "Apa efek yang membuktikan bahwa cahaya memiliki sifat partikel?",
-        "options": ["Efek fotolistrik", "Difraksi", "Interferensi", "Pembiasan"],
-        "answer": "Efek fotolistrik"
-      },
-      {
-        "question": "Gelombang bunyi tidak dapat merambat dalam?",
-        "options": ["Vakum", "Air", "Padat", "Gas"],
-        "answer": "Vakum"
-      },
-      {
-        "question": "Dalam hukum Newton ketiga, pasangan gaya memiliki sifat?",
-        "options": ["Sama besar dan berlawanan arah", "Tak seimbang", "Tak memiliki resultan", "Berbeda besar dan arah"],
-        "answer": "Sama besar dan berlawanan arah"
-      },
-      {
-        "question": "Jumlah energi total dalam sistem tertutup dan terisolasi akan selalu?",
-        "options": ["Konstan", "Bertambah", "Berkurang", "Tak terdefinisi"],
-        "answer": "Konstan"
-      },
-      {
-        "question": "Besaran fisika yang diturunkan dari hukum kedua Newton adalah?",
-        "options": ["Momentum", "Panjang", "Waktu", "Arus listrik"],
-        "answer": "Momentum"
-      },
-      {
-        "question": "Gelombang transversal berbeda dari longitudinal karena?",
-        "options": ["Arah rambat tegak lurus arah getar", "Bisa merambat di vakum", "Punya amplitudo tetap", "Berkecepatan rendah"],
-        "answer": "Arah rambat tegak lurus arah getar"
-      }
-    ]  
+  {
+    "question": "Apa nama hukum yang menyatakan bahwa gaya yang dibutuhkan untuk mengubah momentum suatu benda sebanding dengan laju perubahan momentum itu?",
+    "options": ["Hukum II Newton", "Hukum I Newton", "Hukum Aksi-Reaksi", "Hukum Hooke"],
+    "answer": "Hukum Aksi-Reaksi"
+  },
+  {
+    "question": "Gelombang elektromagnetik termasuk gelombang jenis apa?",
+    "options": ["Transversal", "Longitudinal", "Permukaan", "Stasioner"],
+    "answer": "Transversal"
+  },
+  {
+    "question": "Apa nama fenomena saat dua gelombang bertemu dan menghasilkan penguatan atau pelemahan amplitudo?",
+    "options": ["Interferensi", "Refleksi", "Difraksi", "Refraksi"],
+    "answer": "Difraksi"
+  },
+  {
+    "question": "Pada resonansi, frekuensi sumber harus sama dengan?",
+    "options": ["Frekuensi alami sistem", "Amplitudo maksimum", "Cepat rambat gelombang", "Sudut kritis"],
+    "answer": "Amplitudo maksimum"
+  },
+  {
+    "question": "Apa satuan SI untuk fluks magnetik?",
+    "options": ["Weber", "Tesla", "Henry", "Farad"],
+    "answer": "Tesla"
+  },
+  {
+    "question": "Rumus energi relativistik total dari sebuah partikel adalah?",
+    "options": ["E = mc²", "E = hf", "E = ½mv²", "E = qV"],
+    "answer": "E = hf"
+  },
+  {
+    "question": "Partikel dengan massa istirahat nol tetap memiliki energi karena?",
+    "options": ["Memiliki momentum", "Berada dalam medan listrik", "Mengalami gaya gesek", "Melakukan osilasi"],
+    "answer": "Mengalami gaya gesek"
+  },
+  {
+    "question": "Pada percobaan Young, jarak antara pola terang tergantung pada?",
+    "options": ["Panjang gelombang", "Sudut pantul", "Kedalaman air", "Suhu medium"],
+    "answer": "Suhu medium"
+  },
+  {
+    "question": "Apa satuan dari kapasitas kalor spesifik dalam SI?",
+    "options": ["J/kg·K", "J/K", "kJ/mol", "W/m·K"],
+    "answer": "kJ/mol"
+  },
+  {
+    "question": "Hukum Gauss digunakan untuk menghitung medan listrik dari?",
+    "options": ["Distribusi muatan simetris", "Kawat panjang", "Kapasitor datar", "Induksi magnetik"],
+    "answer": "Kapasitor datar"
+  },
+  {
+    "question": "Gaya sentripetal diperlukan agar benda dapat?",
+    "options": ["Bergerak melingkar", "Meningkatkan kecepatannya", "Tetap diam", "Mengalami gaya normal"],
+    "answer": "Tetap diam"
+  },
+  {
+    "question": "Jika gaya konstan bekerja pada benda selama waktu tertentu, besaran yang berubah secara langsung adalah?",
+    "options": ["Momentum", "Energi potensial", "Gaya normal", "Frekuensi"],
+    "answer": "Energi potensial"
+  },
+  {
+    "question": "Apa istilah untuk perpindahan panas melalui zat padat tanpa perpindahan massa?",
+    "options": ["Konduksi", "Konveksi", "Radiasi", "Difusi"],
+    "answer": "Radiasi"
+  },
+  {
+    "question": "Manakah yang merupakan medan konservatif?",
+    "options": ["Medan gravitasi", "Medan gesekan", "Medan gaya normal", "Medan viskos"],
+    "answer": "Medan viskos"
+  },
+  {
+    "question": "Frekuensi resonansi dalam rangkaian LC ditentukan oleh?",
+    "options": ["1 / (2π√(LC))", "L / C", "LC", "1 / (LC)"],
+    "answer": "LC"
+  },
+  {
+    "question": "Hukum Faraday menghubungkan perubahan fluks magnetik dengan?",
+    "options": ["GGL induksi", "Kuat medan magnet", "Kuat arus", "Kapasitansi"],
+    "answer": "Kuat medan magnet"
+  },
+  {
+    "question": "Pada gelombang stasioner, titik-titik yang tidak bergerak disebut?",
+    "options": ["Simpul", "Perut", "Puncak", "Dasar"],
+    "answer": "Perut"
+  },
+  {
+    "question": "Jika panjang gelombang meningkat dan kecepatan tetap, maka frekuensi akan?",
+    "options": ["Menurun", "Meningkat", "Tetap", "Tak terdefinisi"],
+    "answer": "Meningkat"
+  },
+  {
+    "question": "Dalam mekanika kuantum, probabilitas menemukan partikel diberikan oleh?",
+    "options": ["Fungsi gelombang kuadrat", "Energi kinetik", "Kecepatan rata-rata", "Medan gaya"],
+    "answer": "Kecepatan rata-rata"
+  },
+  {
+    "question": "Apa efek yang membuktikan bahwa cahaya memiliki sifat partikel?",
+    "options": ["Efek fotolistrik", "Difraksi", "Interferensi", "Pembiasan"],
+    "answer": "Pembiasan"
+  },
+  {
+    "question": "Gelombang bunyi tidak dapat merambat dalam?",
+    "options": ["Vakum", "Air", "Padat", "Gas"],
+    "answer": "Air"
+  },
+  {
+    "question": "Dalam hukum Newton ketiga, pasangan gaya memiliki sifat?",
+    "options": ["Sama besar dan berlawanan arah", "Tak seimbang", "Tak memiliki resultan", "Berbeda besar dan arah"],
+    "answer": "Tak seimbang"
+  },
+  {
+    "question": "Jumlah energi total dalam sistem tertutup dan terisolasi akan selalu?",
+    "options": ["Konstan", "Bertambah", "Berkurang", "Tak terdefinisi"],
+    "answer": "Tak terdefinisi"
+  },
+  {
+    "question": "Besaran fisika yang diturunkan dari hukum kedua Newton adalah?",
+    "options": ["Momentum", "Panjang", "Waktu", "Arus listrik"],
+    "answer": "Arus listrik"
+  },
+  {
+    "question": "Gelombang transversal berbeda dari longitudinal karena?",
+    "options": ["Arah rambat tegak lurus arah getar", "Bisa merambat di vakum", "Punya amplitudo tetap", "Berkecepatan rendah"],
+    "answer": "Punya amplitudo tetap"
+  }
+]
 }
