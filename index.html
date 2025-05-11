@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Arcana Mundi: Labirin Pengetahuan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 class="game-title">Arcana Mundi</h1>
+    <p class="subtitle">Labirin Pengetahuan</p>
+
+    <form id="nameForm">
+      <label for="playerName">Masukkan Nama Petualangmu:</label>
+      <input type="text" id="playerName" required placeholder="Contoh: Raka Sang Penjelajah"/>
+      <button type="submit">Mulai Petualangan</button>
+    </form>
+  </div>
+
+  <div id="map" class="hidden">
+    <h2>Selamat datang, <span id="displayName"></span></h2>
+    <p>Pilih Dungeon untuk dijelajahi:</p>
+    <div class="dungeon-grid">
+      <button class="dungeon-button" data-dungeon="verdant">🌿 The Verdant Vault</button>
+      <button class="dungeon-button" data-dungeon="cryptarithm">🧮 The Cryptarithm Core</button>
+      <button class="dungeon-button" data-dungeon="blooming">🍄 The Blooming Grotto</button>
+      <button class="dungeon-button" data-dungeon="ether">🔮 The Ether Spire</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

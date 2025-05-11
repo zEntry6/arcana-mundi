@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dungeon: Arcana Mundi</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="dungeon-wrapper">
+    <h2 id="dungeonTitle">🌿 The Verdant Vault</h2>
+    <p class="player-name">Petualang: <span id="playerNameDisplay"></span></p>
+
+    <div id="questionBox" class="question-box">
+      <p id="questionText">Memuat soal...</p>
+      <div id="optionsContainer" class="options-grid"></div>
+      <p class="timer">⏳ Waktu: <span id="timer">30</span> detik</p>
+      <p id="feedback" class="feedback"></p>
+    </div>
+
+    <div class="progress">
+      Level: <span id="levelDisplay">1</span> | Skor: <span id="scoreDisplay">0</span>
+    </div>
+
+    <button id="nextBtn" class="hidden">Lanjut Soal ▶️</button>
+  </div>
+
+  <script src="dungeon.js"></script>
+</body>
+</html>
